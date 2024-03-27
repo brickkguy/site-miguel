@@ -4,3 +4,6 @@ if (pontosDoMiguel <= 10) {
 } else {
     alert('Miguel é um Bigma.');
 }
+if (pontosDoMiguel = 413, 69, 24, 101) {
+    alert('Vish Margarina of the Player.');
+}
